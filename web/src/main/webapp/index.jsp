@@ -13,7 +13,8 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP.
-  </p>
+    This is a very simple example web page on a JSP. Changes to ensure Jenkins will auto deploy this to the right environment (container.)
+  </p><br/>
+  <h3>Yaay!! It works.</h3>
 </body>
 </html>
